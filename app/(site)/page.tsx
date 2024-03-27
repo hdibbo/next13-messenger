@@ -33,7 +33,7 @@ const Auth = () => {
             text-gray-900
           "
           >
-            Sign in to your account
+            Sign in to Gerbil
         </h2>
       </div>
       <AuthForm />      
